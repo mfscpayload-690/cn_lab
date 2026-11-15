@@ -1,6 +1,6 @@
 # PCCSL507 Networks Lab — Application Variations (Exp 5 & Exp 6)
 
-This repository contains the complete extracted, formatted, verified, and bug-free C source codes for all **9 Common Exam Variations** from the Networks Lab Exam Guide (*IES College of Engineering, Chittilappilly*).
+This repository contains the complete extracted, formatted, verified, and bug-free C source codes for all **9 Common Exam Variations** from the Networks Lab Exam Guide.
 
 Each variation is implemented separately for:
 - **Experiment 5 Style (TCP)**: `server.c` and `client.c`
